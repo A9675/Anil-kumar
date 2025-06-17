@@ -1,2 +1,0 @@
-# Anil-kumar
-MLM software
