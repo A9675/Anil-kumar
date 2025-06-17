@@ -12,7 +12,7 @@ async function subscribeUser() {
     body: JSON.stringify(subscription)
   });
 
-  alert("✅ Subscribed & sent to Google Sheet!");
+  alert("✅ Subscribed 👍");
 }
 
 function urlBase64ToUint8Array(base64String) {
